@@ -1,4 +1,5 @@
 # blender-simple-distribute-objects
+A Blender Addon to distribute objects.
 the Simple Distribute Objects is a tool that helps you distribute multi objects in the scene.
 
 # Install
