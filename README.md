@@ -9,6 +9,6 @@ the Simple Distribute Objects is a tool that helps you distribute multi objects 
 - Add a spaceship in the 3D View under Item > Distribute Objects
 
 # Usage
-- Select tree objects in one scene.
+- Select at least tree objects in one scene.
 - Press "N" to display the Item Panel, on the Item panel you will see "Distribute Object".
 - Click "X", "Y" or "Z" in the panel, then the objects you selected will be distributed by x y or z axis separately.
