@@ -1,5 +1,5 @@
 # blender-simple-distribute-objects
-A Blender Addon to distribute objects.
+A Blender addon to distribute objects.
 
 # Install
 - Install Blender 2.80 or greater: http://blender.org/download/
