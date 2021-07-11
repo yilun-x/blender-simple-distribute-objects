@@ -12,3 +12,5 @@ A Blender addon to distribute objects.
 - Select at least tree objects in one scene.
 - Press "N" to display the Item Panel, on the Item panel you will find "Distribute Objects".
 - Click "X", "Y" or "Z" in the panel, then the objects you selected will be distributed by x y or z axis separately.
+
+![Image text](https://github.com/allen-chia/blender-simple-distribute-objects/blob/main/preview.jpg)
