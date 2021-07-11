@@ -9,7 +9,7 @@ A Blender addon to distribute objects.
 - You can find this addon in the 3D View under Item > Distribute Objects
 
 # Usage
-- Select at least tree objects in one scene.
+- Select at least three objects in one scene.
 - Press "N" to display the Item Panel, on the Item panel you will find "Distribute Objects".
 - Click "X", "Y" or "Z" in the panel, then the objects you selected will be distributed by x y or z axis separately.
 
