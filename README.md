@@ -6,7 +6,7 @@ the Simple Distribute Objects is a tool that helps you distribute multi objects 
 - Download ZIP file
 - Under Edit > Preferences... > Add-ons > Install... open the downloaded ZIP file
 - Under Edit > Preferences... > Add-ons enable the "Object: Simple Distribute Objects" script (search for "distribute")
-- Add a spaceship in the 3D View under Item > Distribute Objects
+- You can find this addon in the 3D View under Item > Distribute Objects
 
 # Usage
 - Select at least tree objects in one scene.
