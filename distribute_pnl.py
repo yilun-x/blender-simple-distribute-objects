@@ -7,6 +7,7 @@ class DB_PT_Panel(Panel):
     bl_region_type = "UI"
     bl_label = "Distribute Objects"
     bl_category = "Item"
+    bl_options = {"DEFAULT_CLOSED"}
 
     def draw(self, context):
 
